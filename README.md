@@ -24,13 +24,6 @@ La cual permitirá a los usuarios realizar operaciones CRUD (Crear, Leer, Actual
     cd my-project
 ```
 
-1. **Clonar el repsitorio**
-
-```bash
-    git clone https://github.com/YahirMaster777/Backend-Prueba.git
-    cd my-project
-```
-
 2. **Modificar la url de la base de datos**
     SQLALCHEMY_DATABASE_URL = "mysql+pymysql://<user>:<pass>@localhost:3306/prueba_back_db"
 ```bash
