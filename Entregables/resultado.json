@@ -1,0 +1,74 @@
+[
+    {
+        "NombreJefe": "Yolanda Juarez",
+        "Direccion": "Juan Escutia,150 Num. Interior777, Centro, Xicotepec, Puebla, Mexico",
+        "NombreEmpleado": "Daniel Mendez",
+        "DireccionEmpleado": "Josefa Ortiz,296 , Morelos, Huachinango, Puebla, Mexico"
+    },
+    {
+        "NombreJefe": "Yolanda Juarez",
+        "Direccion": "Juan Escutia,150 Num. Interior777, Centro, Xicotepec, Puebla, Mexico",
+        "NombreEmpleado": "Lucia Rodriguez",
+        "DireccionEmpleado": "Avenida Insurgentes,500 , Roma Norte, Ciudad de México, CDMX, México"
+    },
+    {
+        "NombreJefe": "Lucia Rodriguez",
+        "Direccion": "Avenida Insurgentes,500, Roma Norte, Ciudad de México, CDMX, México",
+        "NombreEmpleado": "Miguel Cruz",
+        "DireccionEmpleado": "Calle Reforma,45 Num. Interior 7, Polanco, Ciudad de México, CDMX, México"
+    },
+    {
+        "NombreJefe": "Lucia Rodriguez",
+        "Direccion": "Avenida Insurgentes,500, Roma Norte, Ciudad de México, CDMX, México",
+        "NombreEmpleado": "Rosana Pereira",
+        "DireccionEmpleado": "Calle Benito Juárez,121 , Centro, Toluca, Estado de México, México"
+    },
+    {
+        "NombreJefe": "Miguel Cruz",
+        "Direccion": "Calle Reforma,45 Num. Interior7, Polanco, Ciudad de México, CDMX, México",
+        "NombreEmpleado": "Alexandra Hernandez",
+        "DireccionEmpleado": "Calle Morelos,85 , Zapata, Cuernavaca, Morelos, México"
+    },
+    {
+        "NombreJefe": "Rosana Pereira",
+        "Direccion": "Calle Benito Juárez,121, Centro, Toluca, Estado de México, México",
+        "NombreEmpleado": "Jose Ramon Tolentino",
+        "DireccionEmpleado": "Avenida Universidad,205 Num. Interior 5, Jardines, Puebla, Puebla, México"
+    },
+    {
+        "NombreJefe": "Daniel Mendez",
+        "Direccion": "Josefa Ortiz,296, Morelos, Huachinango, Puebla, Mexico",
+        "NombreEmpleado": "Rocio Flores",
+        "DireccionEmpleado": "Calle Emiliano Zapata,35 , Centro, Oaxaca, Oaxaca, México"
+    },
+    {
+        "NombreJefe": "Daniel Mendez",
+        "Direccion": "Josefa Ortiz,296, Morelos, Huachinango, Puebla, Mexico",
+        "NombreEmpleado": "Luis Oliver",
+        "DireccionEmpleado": "Calle Hidalgo,150 Num. Interior 8, Zona Centro, Guadalajara, Jalisco, México"
+    },
+    {
+        "NombreJefe": "Luis Oliver",
+        "Direccion": "Calle Hidalgo,150 Num. Interior8, Zona Centro, Guadalajara, Jalisco, México",
+        "NombreEmpleado": "Jesus Angeles",
+        "DireccionEmpleado": "Avenida Las Américas,108 , Miraflores, Monterrey, Nuevo Leon, México"
+    },
+    {
+        "NombreJefe": "Rocio Flores",
+        "Direccion": "Calle Emiliano Zapata,35, Centro, Oaxaca, Oaxaca, México",
+        "NombreEmpleado": "Claudia Lopez",
+        "DireccionEmpleado": "Calle Constitución,60 , Constitución, Hermosillo, Sonora, México"
+    },
+    {
+        "NombreJefe": "Rocio Flores",
+        "Direccion": "Calle Emiliano Zapata,35, Centro, Oaxaca, Oaxaca, México",
+        "NombreEmpleado": "Hector Fernandez",
+        "DireccionEmpleado": "Calle Independencia,258 , El Refugio, Querétaro, Querétaro, México"
+    },
+    {
+        "NombreJefe": "Rosana Pereira",
+        "Direccion": "Calle Benito Juárez,121, Centro, Toluca, Estado de México, México",
+        "NombreEmpleado": "Eva Luna",
+        "DireccionEmpleado": "Avenida Colón,90 Num. Interior 2, Los Reyes, Juarez, Nuevo Leon, México"
+    }
+]
