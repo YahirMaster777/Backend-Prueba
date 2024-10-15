@@ -24,5 +24,3 @@ def get_db():
 def get_empleados(skip: int = 0, limit: int = 30, db: Session = Depends(get_db)):
     empleados_lista = crud.view.get_empleados(db, skip=skip, limit=limit)
     return empleados_lista        
-
-#Vista de empleados

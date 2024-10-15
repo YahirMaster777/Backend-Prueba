@@ -20,9 +20,3 @@ class EmpleadoModel(Base):
     estado = Column(String(55), nullable=False)
     pais = Column(String(55), nullable=False) 
     
-
-# class EmpleadosSub(Base):
-#     __tablename__ = 'tb_organigrama'
-    
-#     id_jefe= Column(Integer, ForeignKey("tb_empleados.id"))
-#     id_subordinado = Column(Integer, ForeignKey("tb_empleados.id")) 
