@@ -32,15 +32,13 @@ La cual permitirá a los usuarios realizar operaciones CRUD (Crear, Leer, Actual
 ```
 
 2. **Modificar la url de la base de datos**
-
-
-SQLALCHEMY_DATABASE_URL = "mysql+pymysql://<user>:<pass>@localhost:3306/prueba_back_db"
+    SQLALCHEMY_DATABASE_URL = "mysql+pymysql://<user>:<pass>@localhost:3306/prueba_back_db"
 ```bash
     cd my-project/config/
 ```
 
 3. **Instalar la dependencias**
-    nota: Asegurarse de estar en el directorio del proyecto
+    nota: Asegurarse de estar en el directorio raiz del proyecto
 ```bash
     pip install -r requirements.txt
 ```
