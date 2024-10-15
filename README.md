@@ -37,7 +37,7 @@ La cual permitirá a los usuarios realizar operaciones CRUD (Crear, Leer, Actual
 ```
 4. **Inicializar el proyecto**
 ```bash
-    -uvicorn uvicorn app:app
+    uvicorn app:app
 ```
 5 **Visualizar la documentación de la api**
     http://127.0.0.1:8000/docs 
